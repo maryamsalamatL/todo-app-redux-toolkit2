@@ -2,7 +2,7 @@
   "name": "redux-toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://maryamsalamatl.github.io/todo-app-redux-toolkit",
+  "homepage": "http://maryamsalamatl.github.io/todo-app-redux-toolkit2",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
