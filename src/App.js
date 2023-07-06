@@ -21,7 +21,7 @@ function App() {
             </div>
             <div className="nav">
               <a href="#new-todo-section">Todos</a>
-              <a href="#important-todo-section">Important</a>
+              <a href="#in-progress-todo-section">In Progress</a>
               <a href="#completed-todo-section">Completed</a>
             </div>
           </header>
